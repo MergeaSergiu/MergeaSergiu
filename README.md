@@ -1,5 +1,41 @@
 ## Hi there 👋
 
+Hi there 👋
+I'm Mergea Sergiu-Octavian, a passionate software developer with a keen interest in building full-stack applications and automated tools. Over the past two and a half years, I've honed my skills by working on various Java projects.
+
+🌟 What I do:
+
+Develop robust APIs and scalable backend systems.
+Work with Spring Boot framework for developing backend platforms
+Work with modern frontend frameworks like Angular.
+Work with MySQL and PostgreSQL for database management.
+Work with cloud platforms like AWS and Docker for hosting, storage, and deployment.
+
+🎓 Background:
+Graduated from Politehnica University Timișoara, field Computers and Information Technology in 2024. I am enrolled in a Software Engineering Master at Politehnica University Timișoara.
+I participated in courses like: OOP ,C , Data Structures,Foundamentals of Software Engineering etc. 
+
+💼 Professional Experience:
+
+Elektrobit Automotive Timisoara, 07.2022 - 12.2024
+Working on the development, improvement and maintenance of RTE module (Run Time Environment). The RTE provides the infrastructure services that enable communication to occur between AUTOSAR software-components.
+RTE helps the program to run correctly on hardware by abstracting different low level allocations like function, variables to memory mapping.
+Attributes:
+-> Designed and Improved a Java-based code generator (RTEgenerator) for C code generation
+-> Improved Java code quality by developing and creating JUnit tests for Rte generator
+-> Implemented tests for ensuring the reliability and robustness of the C code
+-> Adopted Agile principles : Emphasized collaboration, adaptability, and iterative progress to continuously refine and enhance the Rte generator
+Tehnologies used: Java 8, JUnit, C, RTE, Git, AUTOSAR architecture and ARXML configuration files.
+
+📜 Certificates:
+
+AWS Cloud Practitioner Certificate
+
+💡 What I love:
+
+Learning new tools and technologies.
+Collaborating with others to solve challenging problems.
+Being the best version of myself.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Sergiu-Octavian Mergea](https://www.linkedin.com/in/sergiu-octavian-mergea-044677255/)) 
