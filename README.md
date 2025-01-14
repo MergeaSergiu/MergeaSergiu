@@ -35,9 +35,9 @@ AWS Cloud Practitioner Certificate
 
 💡 What I love:
 
-Learning new tools and technologies.
-Collaborating with others to solve challenging problems.
-Being the best version of myself.
+-> Learning new tools and technologies.
+-> Collaborating with others to solve challenging problems.
+-> Being the best version of myself.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Sergiu-Octavian Mergea](https://www.linkedin.com/in/sergiu-octavian-mergea-044677255/)) 
