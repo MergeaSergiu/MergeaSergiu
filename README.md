@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Hi there 👋
+
 I'm Mergea Sergiu-Octavian, a passionate software developer with a keen interest in building full-stack applications and automated tools. Over the past two and a half years, I've honed my skills by working on various Java projects.
 
 🌟 What I do:
@@ -12,6 +13,7 @@ Work with MySQL and PostgreSQL for database management.
 Work with cloud platforms like AWS and Docker for hosting, storage, and deployment.
 
 🎓 Background:
+
 Graduated from Politehnica University Timișoara, field Computers and Information Technology in 2024. I am enrolled in a Software Engineering Master at Politehnica University Timișoara.
 I participated in courses like: OOP ,C , Data Structures,Foundamentals of Software Engineering etc. 
 
