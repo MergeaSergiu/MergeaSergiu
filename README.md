@@ -19,7 +19,34 @@ I participated in courses like: OOP ,C , Data Structures,Foundamentals of Softwa
 
 💼 Professional Experience:
 
+Deloitte Consulting: 02.2025 - Current Position
+IAM Consultant
+
+At Deloitte, I help clients implement Identity Governance and Administration (IGA) solutions using SailPoint IdentityIQ, ensuring secure and efficient management of user identities and access across their systems:
+-> Automated lifecycle events (Joiner, Mover, Leaver) to streamline user onboarding and offboarding
+-> Improved access control by designing role models and managing entitlements effectively
+-> Integrated SailPoint with Active Directory, SQL databases and RESTful web applications for centralized identity governance
+-> Integrate clients environment with SIEM solutions such as: Splunk, Azure Sentinel
+-> Enhanced compliance by optimizing access review and certification processes
+-> Performed IdentityIQ version upgrades to ensure platform security, stability, and access to the latest features
+-> Maintained and monitored SailPoint environments on both Windows and Linux servers
+-> Developed and improved Java scripts to automate processes and increase system reliability
+
+Technologies Used:
+
+• SailPoint IdentityIQ (On-Prem)
+• Active Directory (AD)
+• RESTful APIs & Web Applications
+• Java
+• Microsoft SQL Server & MySQL
+• Apache Tomcat & Log4j
+• Linux & Windows Server
+• SIEM Solutions (Splunk, Azure Sentinel)
+
+
 Elektrobit Automotive Timisoara, 07.2022 - 12.2024
+Software Developer
+
 Working on the development, improvement and maintenance of RTE module (Run Time Environment). The RTE provides the infrastructure services that enable communication to occur between AUTOSAR software-components.
 RTE helps the program to run correctly on hardware by abstracting different low level allocations like function, variables to memory mapping.
 Attributes:
@@ -31,12 +58,15 @@ Tehnologies used: Java 8, JUnit, C, RTE, Git, AUTOSAR architecture and ARXML con
 
 📜 Certificates:
 
+AWS Certified Solutions Architect Associate
 AWS Cloud Practitioner Certificate
 
 💡 What I love:
 
 -> Learning new tools and technologies.
+
 -> Collaborating with others to solve challenging problems.
+
 -> Being the best version of myself.
 
 ## 🌐 Socials:
