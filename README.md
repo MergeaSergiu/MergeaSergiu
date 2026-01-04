@@ -22,7 +22,7 @@ I participated in courses like: OOP, C, Data Structures, Foundamentals of Softwa
 Deloitte Consulting: 02.2025 - Current Position
 IAM Consultant
 
-At Deloitte, I help clients implement Identity Governance and Administration (IGA) solutions using SailPoint IdentityIQ, ensuring secure and efficient management of user identities and access across their systems:
+I help clients implement Identity Governance and Administration (IGA) solutions using SailPoint IdentityIQ, ensuring secure and efficient management of user identities and access across their systems:
 
 -> Automated lifecycle events (Joiner, Mover, Leaver) to streamline user onboarding and offboarding
 
